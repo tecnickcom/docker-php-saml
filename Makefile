@@ -5,7 +5,7 @@
 # @author      Nicola Asuni <info@tecnick.com>
 # @copyright   2016-2017 Nicola Asuni - Tecnick.com LTD
 # @license     http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE)
-# @link        https://github.com/tecnickcom/alldev
+# @link        https://github.com/tecnickcom/docker-php-saml
 #
 # This file is part of docker-php-saml project.
 # ----------------------------------------------------------------------------------------------------------------------
